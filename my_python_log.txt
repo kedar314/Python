@@ -1,0 +1,9 @@
+C:\Users\Kedar\AppData\Local\Programs\Python\Python37-32
+
+To chanage directory, from cmd enter below line
+cd C:\Users\Kedar\AppData\Local\Programs\Python\Python37-32\Scripts
+
+write this command to install selenium- pip.exe install -U selenium
+
+path for installing geckodriver- https://github.com/mozilla/geckodriver/releases
+(geckodriver file must be in same folder as of scripts, without it selenium will not be able to execute commands)
